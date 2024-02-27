@@ -1,6 +1,6 @@
 # PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning
 
-PyTorch implementation for WWW 2023 paper [PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning](https://arxiv.org/pdf/2302.10632.pdf).
+PyTorch implementation for WWW 2023 paper [PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning](https://mmssl.files.wordpress.com/2024/02/promptmm_www_2024_wei__camera_ready_.pdf).
 
 <p align="center">
 <img src="./PromptMM.png" alt="" />
