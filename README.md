@@ -1,11 +1,10 @@
 # PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning
 
-PyTorch implementation for WWW 2023 paper [PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning](https://mmssl.files.wordpress.com/2024/02/promptmm_www_2024_wei__camera_ready_.pdf).
+PyTorch implementation for WWW 2023 paper [PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning](https://mmssl.files.wordpress.com/2024/02/promptmm_www_2024_wei__camera_ready_-1.pdf).
 
 <p align="center">
 <img src="./PromptMM.png" alt="" />
 </p>
-
 
 
 <h2>Dependencies </h2>
@@ -113,7 +112,9 @@ with open('./test.json', 'w') as test_file:
 ```
 
 
-
+<p align="center">
+<img src="./decouple.png" alt="" />
+</p>
 
 
 ## Acknowledgement
