@@ -35,15 +35,14 @@ Supported datasets:  `Amazon-Electronics`, `Netflix`, `Tiktok`
         ├── tiktok/
         ...
   ```
-| Dataset        |   | Netflix  |     | Tiktok   |     | Electronics |
-|----------------|---|------------------------------|-----|------------------------------|-----|---------------------------------|
-| Modality       |   | V                            | T   |                              | V   | A                               | T   |   | V    | T    |
-| Feat. Dim.     |   | 512                          | 768 |                              | 128 | 128                             | 768 |   | 4096 | 1024 |
-| User           |   | 43,739   |     | 14,343   |     | 41,691      |
-| Item           |   | 17,239   |     | 8,690    |     | 21,479      |
-| Interaction    |   | 609,341  |     | 276,637  |     | 359,165     |
-| Sparsity       |   | 99.919% |     | 99.778% |     | 99.960%    |
-| % Ave. Edge \# |   | 12.822   |     | 19.287   |     | 8.615       |
+|   Dataset   |   |  Netflix |     |   |  Tiktok  |     |     |   | Electronics |      |
+|:-----------:|:-:|:--------:|:---:|:-:|:--------:|:---:|:---:|:-:|:-----------:|:----:|
+|   Modality  |   |     V    |  T  |   |     V    |  A  |  T  |   |      V      |   T  |
+|  Feat. Dim. |   |    512   | 768 |   |    128   | 128 | 768 |   |     4096    | 1024 |
+|     User    |   |  43,739  |     |   |  14,343  |     |     |   |    41,691   |      |
+|     Item    |   |  17,239  |     |   |   8,690  |     |     |   |    21,479   |      |
+| Interaction |   |  609,341 |     |   |  276,637 |     |     |   |   359,165   |      |
+|   Sparsity  |   | 99.919\% |     |   | 99.778\% |     |     |   |   99.960\%  |      |
 
 
 - `2024.2.27 new multi-modal datastes uploaded`: 📢📢 🌹🌹 We provide new multi-modal datasets `Netflix` and `MovieLens`  (i.e., CF training data, multi-modal data including `item text` and `posters`) of new multi-modal work [LLMRec](https://github.com/HKUDS/LLMRec) on Google Drive. 🌹We hope to contribute to our community and facilitate your research~
