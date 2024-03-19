@@ -122,5 +122,7 @@ with open('./test.json', 'w') as test_file:
 
 ## Acknowledgement
 
-The structure of this code is largely based on [LATTICE](https://github.com/CRIPAC-DIG/LATTICE). Thank for their work.
+## Acknowledgement
+
+The structure of this code is largely based on [LATTICE](https://github.com/CRIPAC-DIG/LATTICE), [MICRO](https://github.com/CRIPAC-DIG/MICRO). Thank them for their work.
 
